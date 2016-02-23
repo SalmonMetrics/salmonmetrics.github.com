@@ -6,4 +6,4 @@ categories : [general]
 
 {% include JB/setup %}
 
-First page
+First page test
