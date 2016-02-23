@@ -8,8 +8,8 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Salmon Metrics ERP, CRM, invoicing and accounting tool
-tagline: Advanced and easy to use tools to bring your business to the top
+title : Salmon Metrics
+tagline: ERP, CRM, invoicing and accounting tool. Advanced and easy to use tools to bring your business to the top
 author :
   name : Javier Abrego
   email : jabrego@bigdata.gs
